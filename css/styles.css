@@ -3405,12 +3405,13 @@ img.u-pull-left {
     --gutter    : 0;
     width       : 100%;
     align-items : center;
-}
+}   
 
 .about-info__pic {
     object-fit     : cover;
     margin         : 0;
     vertical-align : bottom;
+    max-height: 600px;
 }
 
 .about-info__text {
